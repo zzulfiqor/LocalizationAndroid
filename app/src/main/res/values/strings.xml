@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="text_1">Fill in this form to register as user</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="i_have_read_and_agree_the_term">I have read and agree the term</string>
+    <string name="simpan">Save</string>
+</resources>
